@@ -34,7 +34,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.max-ralph.com)
+- Website - [Max Ralph](https://www.max-ralph.com)
 - Frontend Mentor - [@maxralph002](https://www.frontendmentor.io/profile/maxralph002)
 - Twitter - [@maxralph002](https://www.twitter.com/maxralph002)
 
