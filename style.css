@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;600&display=swap');
 
-/* font-family: 'Open Sans', sans-serif;
-font-family: 'Poppins', sans-serif; */
-
 *, *::before, *::after {
  box-sizing: border-box;
  margin: 0;
@@ -86,7 +83,7 @@ body {
 }
 
 .footer .social > * {
- outline: 1px solid white;
+ outline: 1px solid var(--white);
  border-radius: 50px;
  padding: 1rem;
  color: var(--white);;
